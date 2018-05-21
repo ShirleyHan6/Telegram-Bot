@@ -1,0 +1,6 @@
+telepot
+request
+beautifulsoup4
+urllib3
+virtualenv
+
